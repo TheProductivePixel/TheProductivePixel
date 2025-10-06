@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# Hi, I'm TPP 👋
+# Hi, there 👋
 
 Full-stack developer building production-ready applications.
 
